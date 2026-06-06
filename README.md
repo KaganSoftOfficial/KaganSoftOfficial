@@ -12,6 +12,7 @@ I'm a young and Linux-savvy person with a passion for software development. **I 
 - 🔣 My programming languages of interest are [C#](https://tr.wikipedia.org/wiki/C_Sharp), [C++](https://tr.wikipedia.org/wiki/C%2B%2B), [GDScript](https://godotengine.org/), [Python](https://www.python.org/) and [HTML](https://tr.wikipedia.org/wiki/HTML).
 - 🗺️ My development environment & tools are [Qt Creator](https://www.qt.io/development/tools/qt-creator-ide), [Code::Blocks](https://www.codeblocks.org/), [Godot Engine](https://godotengine.org/) and [VSCodium](https://vscodium.com/)
 - 📳 I don't usually post repositories very often. *(You understand, unless I get any ideas. 😉)*
+  
+<img src="YAYXFCE.PNG" width="300" alt="I like XFCE">
 
-![Which side are you on?](CODEVSCODE.PNG)
-![Life of a software developer](LIFEOFPROGRAMMER.JPG)
+<img src="CODEVSCODE.PNG" width="400" alt="Which side are you on?"> <img src="LIFEOFPROGRAMMER.JPG" width="400" alt="Life of a software developer">
