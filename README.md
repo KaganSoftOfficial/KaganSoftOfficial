@@ -13,6 +13,6 @@ I'm a young and Linux-savvy person with a passion for software development. **I 
 - 🗺️ My development environment & tools are [Qt Creator](https://www.qt.io/development/tools/qt-creator-ide), [Code::Blocks](https://www.codeblocks.org/), [Godot Engine](https://godotengine.org/) and [VSCodium](https://vscodium.com/)
 - 📳 I don't usually post repositories very often. *(You understand, unless I get any ideas. 😉)*
   
-<img src="YAYXFCE.PNG" width="300" alt="I like XFCE">
+<img src="YAYXFCE.PNG" width="300" alt="I like XFCE"> <img src="HELLO.PNG" width="300" alt="hello...">
 
 <img src="CODEVSCODE.PNG" width="400" alt="Which side are you on?"> <img src="LIFEOFPROGRAMMER.JPG" width="400" alt="Life of a software developer">
