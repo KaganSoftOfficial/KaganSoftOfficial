@@ -4,7 +4,7 @@
 ![Dark Theme Badge](https://img.shields.io/badge/theme-dark-black?style=for-the-badge)
 
 I'm a young and Linux-savvy person with a passion for software development. **I don't own a real company!** 
-> *"If you aren't using the terminal, you aren't in control of your system."*
+> **"If you aren't using the terminal, you aren't in control of your system."**
 
 <br>
 
@@ -27,6 +27,6 @@ I hope one day one of my projects can benefit humanity.
 </pre>
 </details>  
   
-<img src="YAYXFCE.PNG" width="300" alt="I like XFCE"> <img src="HELLO.PNG" width="300" alt="hello...">
+<img src="YAYXFCE.PNG" width="280" alt="I like XFCE"> <img src="HELLO.PNG" width="280" alt="hello...">
 
-<img src="CODEVSCODE.PNG" width="390" alt="Which side are you on?"> <img src="LIFEOFPROGRAMMER.JPG" width="390" alt="Life of a software developer">
+<img src="CODEVSCODE.PNG" width="280" alt="Which side are you on?"> <img src="LIFEOFPROGRAMMER.JPG" width="280" alt="Life of a software developer">
